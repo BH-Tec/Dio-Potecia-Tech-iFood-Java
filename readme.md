@@ -32,7 +32,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ### Dominando Algoritmos Básicos com Desafios de Código Java
 
-- [Os números são iguais?]()
+- [Os números são iguais?](./OsNumerosSaoIguais/OsNumerosSaoIguais.java)
 - [Somando múltiplos]()
 - [Uma chamada recursiva]()
 - [FizzBuzz]()
@@ -45,4 +45,3 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - [Quadrados Perfeitos]()
 - [Classificando Matrizes](./ClassificandoMatrizes/Main.java)
 - [Fatorial Desajeitado]()
-- 
