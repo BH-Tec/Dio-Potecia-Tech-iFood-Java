@@ -1,11 +1,11 @@
-// Desafio 4
+// Desafio
 //Dado um array inteiro nums, mova todos os inteiros pares no início do array seguido por todos os inteiros ímpares.
 //Retorne qualquer array que satisfaça essa condição.
 
 import java.util.*;
 import java.util.Scanner;
 
-public class Main {
+public class ClassificandoMatrizes {
     public static void main(String args[]) {
 
         Scanner input = new Scanner(System.in);

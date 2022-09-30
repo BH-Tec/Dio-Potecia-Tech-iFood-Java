@@ -33,10 +33,10 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ### Dominando Algoritmos Básicos com Desafios de Código Java
 
 - [Os números são iguais?](./OsNumerosSaoIguais/OsNumerosSaoIguais.java)
-- [Somando múltiplos]()
-- [Uma chamada recursiva]()
-- [FizzBuzz]()
-- [Busca Sequencial]()
+- [Somando múltiplos](./SomandoMultiplos/SomandoMultiplos.java)
+- [Uma chamada recursiva](./ChamadaRecursiva/ChamadaRecursiva.java)
+- [FizzBuzz](./FizzBuzz/FizzBuzz.java)
+- [Busca Sequencial](./BuscaSequencial/BuscaSequencial.java)
 
 ### Dominando Algoritmos Intermediários com Desafios de Código Java
 
