@@ -3,7 +3,14 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/BuscaSequencial" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChamadaRecursiva" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChecagemDePalindromos" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ClassificandoMatrizes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FizzBuzz" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OsNumerosSaoIguais" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SomandoMultiplos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ValidacaoDeParenteses" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
